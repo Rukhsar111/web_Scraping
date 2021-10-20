@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3609097e-808e-45c4-b1fd-4e40cd53f81a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_Scraping/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/web_Scraping/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +46,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/web_Scraping/README.md" />
       </list>
     </option>
   </component>
@@ -71,6 +73,11 @@
               <item name="IMAGE_SCARPER" type="b2602c69:ProjectViewProjectNode" />
               <item name="IMAGE_SCARPER" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IMAGE_SCARPER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IMAGE_SCARPER" type="462c0819:PsiDirectoryNode" />
+              <item name="web_Scraping" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,8 +212,8 @@
     <entry file="file://$PROJECT_DIR$/web_Scraping/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <first_editor relative-caret-position="88">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>
