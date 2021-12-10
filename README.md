@@ -5,7 +5,7 @@ This is a web scraping project. In This project we are scraping some images from
 
 
 #  Img - dog
-![sample Image](images\dog\jpg_3.jpg)
+![sample Image](images\dog/jpg_3.jpg)
 
 #  Img - Flower
 ![sample Image](images\flower\jpg_5.jpg)
