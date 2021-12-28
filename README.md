@@ -5,7 +5,6 @@ This is a web scraping project. In This project we are scraping some images from
 
 
 #  Img - dog
-![sample Image](images\dog/jpg_3.jpg)
-
+![dog-puppy-on-garden-royalty-free-image-1586966191](https://user-images.githubusercontent.com/54540404/147590991-20955fae-bbeb-46aa-8369-513e89074889.jpg)
 #  Img - Flower
-![sample Image](images\flower\jpg_5.jpg)
+![water-lily-most-beautiful-flowers-in-the-world](https://user-images.githubusercontent.com/54540404/147591081-3bc0930e-3861-49b3-acfe-1da935166f12.jpg)
